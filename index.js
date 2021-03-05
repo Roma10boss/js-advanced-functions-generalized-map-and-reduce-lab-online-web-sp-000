@@ -1,5 +1,5 @@
 // Add your functions here
-function mapToNegativize(sourceArray){
+mapToNegativize[]]{
   return sourceArray.map(x => x * -1);
 }
 
